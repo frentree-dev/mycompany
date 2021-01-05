@@ -1,4 +1,4 @@
-# mycompanyPrivacy Policy
+# MyCompany Privacy Policy
 
 Frentree INC. built the MyCompany app as a Free app. This Service is provided by Frentree INC. at no cost and is intended for use as is.
 
